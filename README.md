@@ -1,14 +1,4 @@
-# Python for Data Analytics - Full Course
-
-Data Nerds! This repo contains all the notebooks needed to follow along my free course: [Python for Data Analytics](https://lukebarousse.com/python)
-
-
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
-
-## Table of Contents
+![](https://komarev.com/ghpvc/?username=stangeor)
 
 ### [Chapter 1: Python Basics](/1_Basics/)
 
@@ -52,8 +42,3 @@ Data Nerds! This repo contains all the notebooks needed to follow along my free 
 - The Notebooks to solve practice problems
     - [Purchase the problems here](https://lukebarousse.com/python)
 
-## Found a Typo? Want to Contribute?
-- If you find an error in this codebase, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
