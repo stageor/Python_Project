@@ -30,7 +30,7 @@ Focuses on practical, real-world usage of Python for data analysis:
     - Subplots
 
 ### [Chapter 3: Project Build](/3_Project/)
-
+Applies concepts through a hands-on project:
 - Investigating Top Skills in Data Science
     - Data Cleaning
     - Data Analysis
