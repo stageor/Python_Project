@@ -19,7 +19,7 @@
     - Pandas
 
 ### [Chapter 2: Advanced Python](/2_Advanced/)
-
+Focuses on practical, real-world usage of Python for data analysis:
 - Advanced Pandas
     - Data Cleaning
     - Data Manipulation
