@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=stangeor)
 
 ### [Chapter 1: Python Basics](/1_Basics/)
-
+Covers the foundational concepts required to get started with Python:
 *This chapter is meant for [Google Colab](https://colab.research.google.com/github/lukebarousse/Python_Data_Analytics_Course/blob/main/1_Basics/01_Getting_Started.ipynb).*
 - Introduction to Python
     - Variables
